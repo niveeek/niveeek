@@ -1,5 +1,7 @@
 <h1 align="center">Well hello there 👋, this is Kevin</h1>
+<p align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Java+Developer;2+y.e." alt="Typing SVG" /></a>
+</p>
 
 **`Be 1% better than yesterday. It is all you need.`**
 
